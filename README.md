@@ -8,7 +8,8 @@
 
 ![Ubhara Jaya (1)](https://github.com/faishalwahiduddin/dmiexpo/assets/15316893/5f455e19-32a7-4023-8403-c6d4a8169b6a)
 
-
+## 🖥️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ## 📬 Contact
 
 
