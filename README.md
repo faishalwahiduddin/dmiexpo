@@ -13,3 +13,5 @@
 
 
 If you want to contact me, you can reach me through below handles.
+
+<a href="https://www.linkedin.com/in/faishal-wahiduddin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></img></a>
